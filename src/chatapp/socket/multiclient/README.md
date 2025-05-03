@@ -10,18 +10,8 @@
 | **Institution**      | University of Balamand                    |
 | **Instructor**       | Dr. Dani Nini                             |
 | **Semester**         | Spring 2025                               |
+| **GitHub**         | [github.com/SiaHalawani]([https://github.com/SiaHalawani](https://github.com/SiaHalawani/multi-client-chat-java))                            |
 
-
-###### 📚 Course & Author Information
-
-- **Course**: Network Configuration and Programming  
-- **Project Title**: Multi-Client Messaging System over Sockets  
-- **Developer**: Sondos Halawani  
-- **Student ID**: A2112613  
-- **Institution**: University of Balamand  
-- **Instructor**: Dr. Dani Nini  
-- **Semester**: Spring 2025  
-- **GitHub**: [github.com/SiaHalawani](https://github.com/SiaHalawani)
 ---
 
 ## 📑 Table of Contents
