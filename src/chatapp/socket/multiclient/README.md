@@ -1,16 +1,17 @@
 # Multi-Client Messaging System over Sockets
 
 ## 📚 Course & Author Information
-| Detail               | Information                              |
-|----------------------|-------------------------------------------|
-| **Course**           | Network Configuration and Programming     |
-| **Project Title**    | Multi-Client Messaging System over Sockets |
-| **Developer**        | Sondos Halawani                           |
-| **Student ID**       | A2112613                                  |
-| **Institution**      | University of Balamand                    |
-| **Instructor**       | Dr. Dani Nini                             |
-| **Semester**         | Spring 2025                               |
-| **GitHub**         | [github.com/SiaHalawani]([https://github.com/SiaHalawani](https://github.com/SiaHalawani/multi-client-chat-java))                            |
+
+| Detail               | Information                                      |
+|----------------------|--------------------------------------------------|
+| **Course**           | Network Configuration and Programming            |
+| **Project Title**    | Multi-Client Messaging System over Sockets       |
+| **Developer**        | Sondos Halawani                                  |
+| **Student ID**       | A2112613                                         |
+| **Institution**      | University of Balamand                           |
+| **Instructor**       | Dr. Dani Nini                                    |
+| **Semester**         | Spring 2025                                      |
+| **GitHub Repository**| [github.com/SiaHalawani/multi-client-chat-java](https://github.com/SiaHalawani/multi-client-chat-java) |
 
 ---
 
@@ -21,7 +22,7 @@
 - [🔐 Key Features](#-key-features)
 - [⚙️ Technical Design](#️-technical-design)
 - [🛠 How to Run (NetBeans)](#-how-to-run-netbeans)
-- [🧪 Testing Screenshots](#-testing-instructions)
+- [🧪 Testing Screenshots](#-testing-screenshots)
 - [📋 Sample Terminal Logs](#-sample-terminal-logs)
 - [🧾 File Overview](#-file-overview)
 - [📄 License](#-license)
